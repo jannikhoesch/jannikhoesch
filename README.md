@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jannik Hösch! 👋
 
-<!--
-**jannikhoesch/jannikhoesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Master's student in Computer Science at KTH, specializing in Machine Learning. My interests lie in AI, data science, and software engineering, and I'm always looking for challenging projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🔍 Interests
+- Machine Learning & AI 🤖
+- Software Development 💻
+- Computational Experimentation & Research 📊
+- Triathlon Training 🏊🚴🏃
+- Outdoor Adventures & Bikepacking 🌲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, C++, JavaScript, Java
+- **ML & AI**: PyTorch, TensorFlow, Scikit-Learn
+- **Development**: Git, Docker, SQL, Linux
+
+## 📌 Current Focus
+- Working on AI-related projects
+- Improving my swimming & triathlon training
+- Exploring research topics in generative AI
+
+## 📫 Connect with Me
+- **GitHub**: [github.com/jannikhoesch](https://github.com/jannikhoesch)
+- **LinkedIn**: [linkedin.com/in/jannikhoesch](https://www.linkedin.com/in/jannikhoesch)
+- **Email**: jannik.hoesch@icloud.com
