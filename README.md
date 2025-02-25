@@ -1,4 +1,4 @@
-# Hi, I'm Jannik Hösch! 👋
+# Hi, I'm Jannik! 👋
 
 ## 🚀 About Me
 I'm a Master's student in Computer Science at KTH, specializing in Data Science and Machine Learning. I have a broad interest in various AI topics, especially reinforcement learning and language technologies. I'm always looking for challenging projects to improve my skills.
