@@ -7,7 +7,6 @@ I'm a Master's student in Computer Science at KTH, specializing in Data Science 
 - Building AI projects 💻
 - Working out 🏃🏋️🚴🏊
 - Learning languages 🇸🇪🇪🇸
-- Exploring the world 🤠
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C++, JavaScript, Java
