@@ -47,3 +47,4 @@ I'm a Master's student in Computer Science at KTH, specializing in Data Science 
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/jannikhoesch](https://www.linkedin.com/in/jannikhoesch)
 - **Email**: jannik.hoesch@icloud.com
+- **Website**: [jannikhoesch.com](https://portfolio-jannik-hoesch.vercel.app)
